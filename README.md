@@ -1,1 +1,0 @@
-tnsdc coruse gen ai
